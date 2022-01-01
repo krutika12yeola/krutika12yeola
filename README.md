@@ -21,10 +21,9 @@ I am Second Year Student proficiency with HTML,CSS,JS
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
-
- I'm currently working on github.  
- second year computer engineering student.
- I am good in c,c++,html,blogging.
+I'm currently working on github.  
+second year computer engineering student.
+I am good in c,c++,html,blogging.
    
   
 
