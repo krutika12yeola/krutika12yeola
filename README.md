@@ -7,9 +7,7 @@
 <a href="https://linkedin.com/in/krutika-yeola-277228211" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/krutika_12_yeola" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+
   
 
 
@@ -24,16 +22,15 @@ I am Second Year Student proficiency with HTML,CSS,JS
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
- I'm currently working on github  
- second year computer engineering student 
+ I'm currently working on github.  
+ second year computer engineering student.
  I am good in c,c++,html,blogging.
    
   
 
  
   
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+  
 
 
 </td><td valign="top" width="50%">
