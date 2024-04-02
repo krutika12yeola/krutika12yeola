@@ -13,7 +13,11 @@
 
 
 ### Glad to see you here!  
-I am Final Year Student proficiency with HTML,CSS,Python , C++ , Django , ML.  
+I'm Final Year Computer BTech student to secure an entry-level position as a Computer Engineer, apply technical skills, contribute to projects, and grow professionally in teamwork. While continuously learning and contributing to the success of the organization.
+Always Learn To New Skill.
+Technical Skills :- C++ , python , MySql
+Web Development :- HTML5, CSS, Django
+Soft Skills :- Team Leader, Presentation Skills, Design.
   
 
 <br/>  
@@ -21,8 +25,7 @@ I am Final Year Student proficiency with HTML,CSS,Python , C++ , Django , ML.
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
-I'm currently working on github.  
-I am good in python,c++,html,blogging.
+
    
   
 
