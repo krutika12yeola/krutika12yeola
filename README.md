@@ -13,7 +13,7 @@
 
 
 ### Glad to see you here!  
-I am Second Year Student proficiency with HTML,CSS,JS  
+I am Final Year Student proficiency with HTML,CSS,Python , C++ , Django , ML.  
   
 
 <br/>  
@@ -22,8 +22,7 @@ I am Second Year Student proficiency with HTML,CSS,JS
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 I'm currently working on github.  
-second year computer engineering student.
-I am good in c,c++,html,blogging.
+I am good in python,c++,html,blogging.
    
   
 
