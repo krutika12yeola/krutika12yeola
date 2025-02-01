@@ -13,9 +13,9 @@
 
 
 ### Glad to see you here!  
-I'm Final Year Computer BTech student to secure an entry-level position as a Computer Engineer, apply technical skills, contribute to projects, and grow professionally in teamwork. While continuously learning and contributing to the success of the organization.
+ To secure an entry-level position as a Computer Engineer, apply technical skills, contribute to projects, and grow professionally in teamwork. While continuously learning and contributing to the success of the organization.
 Always Learn To New Skill.
-Technical Skills :- C++ , python , MySql
+Technical Skills :- Python, Data Science, OOPs, DBMS, AWS Services, Linux
 Web Development :- HTML5, CSS, Django
 Soft Skills :- Team Leader, Presentation Skills, Design.
   
